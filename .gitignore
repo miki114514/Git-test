@@ -1,0 +1,17 @@
+# Unity generated files
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Tt]arget/
+.vscode/
+.idea/
+
+# User-specific files
+UserSettings/
+
+# Build results
+Build/
+Builds/
+
+# Ignore generated files and folders
+.obj/
